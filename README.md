@@ -1,3 +1,3 @@
-# goit-react-hw-01-components
+# goit-react-hw-00-components
 
-React homework 01 https://memx86.github.io/goit-react-hw-01-components/
+React homework 00 https://memx86.github.io/goit-react-hw-00-components/
